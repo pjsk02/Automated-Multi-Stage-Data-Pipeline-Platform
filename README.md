@@ -5,7 +5,6 @@
 ## Live Links
 
 [![Codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=10LyLUw6ExvnydJ-WWU9VY5ZdL0ZN6cSuQ4gK6o7-hZo#0)
-[![Demo Video](https://img.shields.io/badge/Demo-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/SFfq909AHa0)
 
 | Service | URL |
 |---|---|
@@ -142,7 +141,7 @@ Running all three pipelines on the same source data enables a direct, apples-to-
 
 ```bash
 git clone <repository_url>
-cd DAMG7245_Team5_Assignment2
+cd Automated-Multi-Stage-Data-Pipeline-Platform
 ```
 
 ### 2. Create a virtual environment
@@ -290,13 +289,5 @@ The Streamlit app is designed for data analysts who want to explore the warehous
 - [Streamlit Documentation](https://docs.streamlit.io/)
 
 ---
-
-## Team
-
-| Name | NUID | Contribution |
-|---|---|---|
-| Pranjal Mahajan | 002375449 | 33.33% |
-| Srushti Patil | 002345025 | 33.33% |
-| Ram Putcha | 002304724 | 33.33% |
 
 See [AiDisclosure.md](AiDisclosure.md) for details on AI tools used in this project.
