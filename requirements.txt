@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+snowflake-connector-python
+streamlit
+requests
+python-dotenv
+streamlit
+pandas
